@@ -7,7 +7,7 @@
 ➣ Description:<p>This Python-based web scraping project utilizes BeautifulSoup and Requests libraries to extract population statistics from Wikipedia pages. The parsing algorithms implemented navigate through Wikipedia tables, extracting population data for various countries and territories. The extracted information is standardized for consistency, facilitating integration with downstream data processing and analysis pipelines.</p>
 
 
-➣ Key Features:Utilizes BeautifulSoup and Requests libraries for web scraping Implements parsing algorithms for navigating Wikipedia tables Standardizes extracted information for consistency Provides valuable demographic insights through automated scraping process Offers basic data analytics using pandas library
+➣ Key Features:Utilizes BeautifulSoup and Requests libraries for web scraping Implements parsing algorithms for navigating Wikipedia tables Standardizes extracted information for consistency Provides valuable demographic insights through automated scraping process Offers basic data analytics using pandas library.
 
 
 ➣ Technologies Used:<br>
